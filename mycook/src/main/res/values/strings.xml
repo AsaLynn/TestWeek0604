@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">菜谱分类</string>
+    <string name="title_activity_coook_details">菜谱列表</string>
+</resources>
